@@ -1,0 +1,14 @@
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\bin\Debug\ExitReminder.exe.config
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\bin\Debug\ExitReminder.exe
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\bin\Debug\ExitReminder.pdb
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.Ajout.resources
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.Ajout_fonction.resources
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.Options.resources
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.Notify.resources
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.Principale.resources
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.Properties.Resources.resources
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.csproj.GenerateResource.cache
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.csproj.CoreCompileInputs.cache
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.exe
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.pdb
+C:\Users\Jean-Noel\Documents\Visual Studio 2017\Projects\ExitReminder\ExitReminder\obj\Debug\ExitReminder.csprojAssemblyReference.cache
